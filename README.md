@@ -1,5 +1,5 @@
 # Weather-App_JS
-This repository contains a Weather App built using Open Weather API
+This repository contains a Weather App built using HTML5, CSS3 and JavaScript(ES6) and Open Weather API
 
 ### Some of the features of the Weather App:
 
